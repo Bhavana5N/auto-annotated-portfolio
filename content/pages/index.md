@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, I am Bhavana Nare'
+    title: 'Hi,I am Bhavana Nare'
     subtitle: >-
       As a Full Stack Developer, I craft powerful applications using Java,
       Spring Boot, and React.js. I excel in solving complex challenges across
