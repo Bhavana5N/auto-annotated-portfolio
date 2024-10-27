@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hi, I am Bhavana Nar'
     subtitle: >-
       am a|As a Full Stack Developer, I craft powerful applications using Java,
       Spring Boot, and React.js. I excel in solving complex challenges across
